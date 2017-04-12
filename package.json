@@ -1,0 +1,16 @@
+{
+  "name": "pixl8_api_test",
+  "version": "1.0.0",
+  "description": "simple Rest API application for pixl8 test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Farooq Ezhar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0"
+  }
+}
